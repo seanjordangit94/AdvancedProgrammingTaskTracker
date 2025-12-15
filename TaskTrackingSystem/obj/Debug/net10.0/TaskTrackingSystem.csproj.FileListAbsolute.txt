@@ -1,0 +1,14 @@
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/obj/Debug/net10.0/TaskTrackingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/obj/Debug/net10.0/TaskTrackingSystem.AssemblyInfoInputs.cache
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/obj/Debug/net10.0/TaskTrackingSystem.AssemblyInfo.cs
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/obj/Debug/net10.0/TaskTrackingSystem.csproj.CoreCompileInputs.cache
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/bin/Debug/net10.0/TaskTrackingSystem
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/bin/Debug/net10.0/TaskTrackingSystem.deps.json
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/bin/Debug/net10.0/TaskTrackingSystem.runtimeconfig.json
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/bin/Debug/net10.0/TaskTrackingSystem.dll
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/bin/Debug/net10.0/TaskTrackingSystem.pdb
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/obj/Debug/net10.0/TaskTrackingSystem.dll
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/obj/Debug/net10.0/refint/TaskTrackingSystem.dll
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/obj/Debug/net10.0/TaskTrackingSystem.pdb
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/obj/Debug/net10.0/TaskTrackingSystem.genruntimeconfig.cache
+/Users/sj/AdvancedProgrammingTaskTracker/TaskTrackingSystem/obj/Debug/net10.0/ref/TaskTrackingSystem.dll
